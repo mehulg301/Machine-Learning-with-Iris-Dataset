@@ -1,4 +1,4 @@
-# ML-with-Iris-dataset
+# Machine-Learning-with-Iris-Dataset
 The Iris dataset is a classic dataset for classification, machine learning, and data visualization. The dataset used in this project is included as iris.csv. This dataset is freely available on the UCI Machine Learning Repository.
 
 ## Dataset
